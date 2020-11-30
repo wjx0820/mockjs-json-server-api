@@ -10,7 +10,7 @@ const data = Mock.mock({
       // name: "@cname",
       from: "@email",
       subject: "@ctitle",
-      body: "@cparagraph(3,4)",
+      body: "@cparagraph(10,15)",
       sentAt: "@datetime",
       archived: "@boolean",
       read: "@boolean",
